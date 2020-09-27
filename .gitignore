@@ -1,2 +1,7 @@
 .DS_Store
+<<<<<<< Updated upstream
 **/.ipynb_checkpoints
+=======
+../.ipynb_checkpoints
+
+>>>>>>> Stashed changes
